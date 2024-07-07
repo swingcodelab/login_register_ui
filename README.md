@@ -15,7 +15,14 @@ This is a modern and responsive user interface project for managing login and re
 
 ## Screenshots
 
+### Light Login
 ![Light Login](login.png)
+
+### Dark Login
 ![Dark Login](login_dark.png)
+
+### Light Register
 ![Light Register](register.png)
+
+### Dark Register
 ![Dark Register](register_dark.png)
